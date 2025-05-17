@@ -7,7 +7,7 @@ layout: home
 
 **Feeling overwhelmed, burnt out, stressed, or stuck in a cycle of low-energy routines?**
 
-*My Comfort Book* is your personal guide to reconnecting with yourself, reducing stress, and reclaiming your inner peace. Through thoughtful prompts and simple, actionable instructions, this book helps you discover the self-care practices that work for you. It’s designed to help you live intentionally, nurture your mental health, and restore balance in your daily life.
+[*My Comfort Book*](https://greenspringmh.myshopify.com/products/book-example) is your personal guide to reconnecting with yourself, reducing stress, and reclaiming your inner peace. Through thoughtful prompts and simple, actionable instructions, this book helps you discover the self-care practices that work for you. It’s designed to help you live intentionally, nurture your mental health, and restore balance in your daily life.
 
 Take control of your well-being—one step at a time.
 
