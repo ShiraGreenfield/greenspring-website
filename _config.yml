@@ -6,10 +6,9 @@
 ### https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 ###########################################################
 
-theme: beautiful-jekyll-theme
 remote_theme: daattali/beautiful-jekyll@6.0.1
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 ############################
 # --- Required options --- #
