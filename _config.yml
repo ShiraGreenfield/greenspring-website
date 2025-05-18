@@ -25,6 +25,7 @@ author: GreenSpring
 ###############################################
 
 navbar-links:
+  Home: "index"
   About Us: "about"
   Shop: "shop"
 
@@ -41,7 +42,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: /assets/greenspring-logo.png
 
 
 #####################################
@@ -139,14 +140,14 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+hover-col: "#7FDBFF"
+navbar-col: "#81a969"
+navbar-text-col: "#F1EFE7"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-col: "#81a969"
+footer-text-col: "#F1EFE7"
+footer-link-col: "#F1EFE7"
+footer-hover-col: "#7FDBFF"
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #

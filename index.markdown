@@ -4,6 +4,9 @@
 
 layout: home
 ---
+<div style="margin: 0 auto;">
+<img src="/assets/greenspring-logo.png" alt="logo" style="max-width:200px;"/>
+</div>
 
 **Feeling overwhelmed, burnt out, stressed, or stuck in a cycle of low-energy routines?**
 
