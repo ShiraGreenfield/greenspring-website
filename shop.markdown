@@ -4,7 +4,7 @@ title: Our Shop
 permalink: /shop/
 ---
 
-<div id='product-component-1749387213450'></div>
+<div id='product-component-1749387213450' style="margin: 0 auto"></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
