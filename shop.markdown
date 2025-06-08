@@ -4,7 +4,7 @@ title: Our Shop
 permalink: /shop/
 ---
 
-<div id='product-component-1747583643395' style="margin: 0 auto"></div>
+<div id='product-component-1749387213450'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -33,7 +33,7 @@ permalink: /shop/
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '8118047572105',
-        node: document.getElementById('product-component-1747583643395'),
+        node: document.getElementById('product-component-1749387213450'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -44,6 +44,9 @@ permalink: /shop/
           "margin-left": "20px",
           "margin-bottom": "50px"
         }
+      },
+      "title": {
+        "font-size": "20px"
       },
       "button": {
         ":hover": {
@@ -56,10 +59,24 @@ permalink: /shop/
         "border-radius": "5px",
         "padding-left": "25px",
         "padding-right": "25px"
+      },
+      "price": {
+        "font-size": "16px"
+      },
+      "compareAt": {
+        "font-size": "13.6px"
+      },
+      "unitPrice": {
+        "font-size": "13.6px"
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
+    "width": "380px",
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -97,6 +114,30 @@ permalink: /shop/
         "border-radius": "5px",
         "padding-left": "25px",
         "padding-right": "25px"
+      },
+      "title": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "bold",
+        "font-size": "26px",
+        "color": "#4c4c4c"
+      },
+      "price": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "18px",
+        "color": "#4c4c4c"
+      },
+      "compareAt": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
+      },
+      "unitPrice": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
       }
     },
     "text": {
@@ -120,7 +161,8 @@ permalink: /shop/
     "text": {
       "total": "Subtotal",
       "button": "Checkout"
-    }
+    },
+    "popup": false
   },
   "toggle": {
     "styles": {

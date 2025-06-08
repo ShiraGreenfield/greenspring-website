@@ -3,11 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About My Comfort Guide
 ---
-<div style="margin: 0 auto;">
-<img src="/assets/greenspring-logo.png" alt="logo" style="max-width:200px;"/>
+
+<div style="display: flex;">
+    <img src="/assets/greenspring-logo.png" alt="logo" style="max-width:350px; margin: 0 auto;"/>
 </div>
+
+# About My Comfort Guide
 
 **Feeling overwhelmed, burnt out, stressed, or stuck in a cycle of low-energy routines?**
 
@@ -17,7 +19,7 @@ Take control of your well-being—one step at a time.
 
 ---
 
-About Shira and Sheila
+*About Shira and Sheila*
 
 We worked together in a healthcare setting overseeing behavioral health services for several years. As leaders in the organization, we were asked to develop something for the nursing workforce to be rolled out during the annual Nurse’s Week celebration. Traditionally this would include some merchandise with the company logo or other miscellaneous trinkets that offered little value to the employees. We wanted to offer something different. Our goal was to help the employees understand the importance of taking good care of themselves and providing them with a tool to facilitate that process.
 
