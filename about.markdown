@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /about/
+title: About Us
 ---
 
 ## ABOUT SHIRA

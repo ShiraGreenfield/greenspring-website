@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Our Shop
 permalink: /shop/
 ---
 
-<h2>Our Shop</h2>
-<br/>
 <div id='product-component-1747583643395' style="margin: 0 auto"></div>
 <script type="text/javascript">
 /*<![CDATA[*/
