@@ -31,3 +31,7 @@ We recently expanded the tool and included some new ideas that we have learned a
 
 As mental health clinicians, we’re deeply aware of the strain today’s fast-paced world places on people. Many report feeling “busy but empty,” unproductive, unfulfilled, or even numb.
 It’s our hope that by utilizing this tool, people will return to who they are at their core, and make intentional choices  about how they spend their time and live their lives.
+
+<div style="display: flex;">
+    <img src="/assets/lily.jpg" alt="lily" style="max-width:400px; margin: 0 auto;"/>
+</div>
