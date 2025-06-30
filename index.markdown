@@ -21,16 +21,13 @@ Take control of your well-being—one step at a time.
 
 *About Shira and Sheila*
 
-We worked together in a healthcare setting overseeing behavioral health services for several years. As leaders in the organization, we were asked to develop something for the nursing workforce to be rolled out during the annual Nurse’s Week celebration. Traditionally this would include some merchandise with the company logo or other miscellaneous trinkets that offered little value to the employees. We wanted to offer something different. Our goal was to help the employees understand the importance of taking good care of themselves and providing them with a tool to facilitate that process.
+At Greenspring Mental Health Tools, we believe healing begins from within. Drawing on decades of experience in the mental health field, we’ve created a collection of tools designed to support your journey toward growth and balance.
 
-To meet that need, we developed a small booklet we titled “Pocket Full of Comforts” which was designed to fit into the pocket of nurses’ scrub uniforms. Soon after, we discovered the power of the booklet in our own lives. After a particularly stressful workday, Shira called Sheila, who was her director at the time, and told her that she just knew she was “not right”. Sheila suggested Shira take some time for “rigorous self-care” and reminded her of her personal completed Pocket Full of Comfort Shira followed the guidance in her own booklet, taking a few days to recharge. She was amazed that after only a few days of intentional activity , she felt like herself again and was able to return to her work, refreshed and ready to care for others.
+Our vision is simple: to make your path more natural, more accessible, and more personal. We design tools that are practical, intuitive, and easy to carry with you—so self-care can become a part of everyday life, not just something saved for later.
 
-In the years since then, we have used the concepts from the booklet in many different settings from local service organizations, employee wellness programs, community colleges, as well as individual and group therapy sessions. We consistently heard that using the tool was a powerful and helpful experience.
+Each product is rooted in the idea that you already hold the wisdom you need to heal. Our tools are here to help you tap into that inner strength, offering gentle guidance as you explore what it truly means to care for yourself.
 
-We recently expanded the tool and included some new ideas that we have learned along the way.
-
-As mental health clinicians, we’re deeply aware of the strain today’s fast-paced world places on people. Many report feeling “busy but empty,” unproductive, unfulfilled, or even numb.
-It’s our hope that by utilizing this tool, people will return to who they are at their core, and make intentional choices  about how they spend their time and live their lives.
+Whether you're beginning your journey or deepening your practice, we invite you to take the time and space to ask: _What do I really need to live well?_ At Greenspring, we’re here to help you listen to the answer.
 
 <div style="display: flex;">
     <img src="/assets/lily.jpg" alt="lily" style="max-width:400px; margin: 0 auto;"/>
