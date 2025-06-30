@@ -6,6 +6,7 @@
 ### https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 ###########################################################
 
+# theme: beautiful-jekyll-theme # LOCAL DEV ONLY
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -15,7 +16,7 @@ plugins:
 ############################
 
 # Name of website
-title: GreenSpring Mental Health
+title: Greenspring Mental Health Tools
 
 # Your name to show in the footer
 author: GreenSpring
@@ -25,9 +26,10 @@ author: GreenSpring
 ###############################################
 
 navbar-links:
-  Home: "index"
-  About Us: "about"
+  About My Comfort Guide: "index"
+  About the Authors: "about"
   Shop: "shop"
+  Contact Us: "contact"
 
 ################
 # --- Logo --- #
@@ -106,7 +108,7 @@ share-links-active:
 url-pretty: "greenspringmh.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Shop
+title: Tools
 permalink: /shop/
 ---
 
