@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact Us
 permalink: /contact/
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -248,7 +246,7 @@ permalink: /contact/
 
     <div class="form-container">
         <div class="form-header">
-            <h1>Get in Touch</h1>
+            <h1 style="font-weight: bold">Get in Touch</h1>
             <p>We're here to support your mental health journey</p>
         </div>
         
