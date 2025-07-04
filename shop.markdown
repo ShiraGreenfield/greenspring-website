@@ -6,6 +6,7 @@ permalink: /shop/
 
 <style type="text/css" media="screen">
   .disclaimer {
+    font-size: 14px;
     margin: 0 auto;
     text-align: center;
     margin-top: 30px;
@@ -16,7 +17,7 @@ permalink: /shop/
 <div id='product-component-1749387702036' style="margin: 0 auto"></div>
 
 <!-- Disclaimers -->
-<p class="disclaimer">We ship only to the Continental US. Online orders are limited to 25 units. For larger orders, please <a href="/contact">contact us<a>.</p>
+<p class="copyright disclaimer">We ship only to the Continental US. Online orders are limited to 25 units. For larger orders, please <a href="/contact">contact us</a>.</p>
 
 <!-- Load product -->
 <script type="text/javascript">
