@@ -12,8 +12,10 @@ Her work is deeply rooted in her belief in the transformative power of personal 
 
 ## ABOUT SHEILA
 
-With over two decades of experience in clinical psychology, healthcare leadership, and executive coaching, Dr. Sheila Senn brings a unique blend of expertise to her practice. She has led hospital Behavioral Health Service Lines, overseen general hospital operations, and played a pivotal role as Chief Operating Officer and Senior Vice President in the development, construction, and operational launch of a 115 bed hospital in northern Illinois. 
+Dr. Sheila Senn has over two decades of experience helping people take charge of their lives both personally and professionally.   With a doctorate in Psychology and years of experience in behavioral health settings and in  leadership development, Dr. Senn brings a unique, whole-person approach to change, growth, and resilience.  Currently Dr. Senn runs her own private practice in northern Illinois where she supports individuals navigating anxiety, relationship challenges, life transitions, and emotional stress. Additionally, she works as an executive coach, where she assists professionals in gaining clarity, improving decision-making, and leading with confidence and purpose. 
 
-Today, as the founder of her own practice, Dr. Senn draws on two distinct but complementary areas of expertise. In her clinical work, she has spent decades supporting individuals through therapy, focusing on emotional well-being, mental health, and personal healing. Separately, as an executive coach, she partners with leaders, professionals, and teams to foster growth, enhance performance, and navigate the complexities of professional life. While her clinical background informs her understanding of human behavior, her coaching work is future-focused—empowering clients to clarify goals, overcome obstacles, and achieve meaningful success.  
+In both areas of her practice, she works with people from a client centered perspective, meeting them where they are with empathy,  patience and sometimes a bit of humor. 
 
-Her approach is both strategic and compassionate—rooted in evidence-based practices and shaped by years of hands-on leadership. Whether providing counseling or executive coaching, Dr. Senn is dedicated to fostering resilience, insight, and transformation.
+Her approach is both straightforward and compassionate.  Whether providing counseling or executive coaching, Dr. Senn is dedicated to empowering people to manage their lives with intention, balance and authenticity.
+
+To learn more about Dr. Senn, [Wellspring Counseling](https://www.sheilasenn.com/)
