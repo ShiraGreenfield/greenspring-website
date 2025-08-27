@@ -18,4 +18,4 @@ In both areas of her practice, she works with people from a client centered pers
 
 Her approach is both straightforward and compassionate.  Whether providing counseling or executive coaching, Dr. Senn is dedicated to empowering people to manage their lives with intention, balance and authenticity.
 
-To learn more about Dr. Senn, [Wellspring Counseling](https://www.sheilasenn.com/)
+To learn more about Dr. Senn, visit [Wellspring Counseling](https://www.sheilasenn.com/)
